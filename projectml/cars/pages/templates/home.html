@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+{% extends 'navbar.html' %}
+{% block 'nav' %}
+{% load static %}
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'h.css' %}" type='text/css'>
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@3.0.0/fonts/remixicon.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="icon" href="./2024-Lamborghini-Revuelto-009-1080-removebg-preview.png">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <title>HOME</title>
+</head>
+<body>
+    <nav class="social-media">
+        <ul>
+            <li><a href="">Twitter <i class="fa fa-twitter"></i></a></li>
+            <li><a href="">Github <i class="fa fa-github"></i></a></li>
+            <li><a href="">Linkedin <i class="fa fa-linkedin"></i></a></li>
+        </ul>
+    </nav>
+    <section class="main">
+        <div class="main-text">
+            <h5>buy your car</h5>
+            <h4>ready</h4>
+            <h1>project</h1>
+            <p>this model will show all cars which you need, and give you a price of the car which you wanted.</p>
+            <a href="">learn more</a>
+            <a href="" class="ctaa">about</a>
+        </div>
+        <div class="main-img">
+            <img src="{% static 'photos/2014-BMW-Vision-Gran-Turismo-005-1080-removebg-preview.png' %}" alt="">
+        </div>
+    </section>
+    <section class="e" id="e">
+        <div class="form">
+            <div class="img"><img src="{% static 'photos/c2.jpg' %}" alt=""></div>
+            <div class="input">
+                <h1 class="h1">features</h1>
+                <form id="f" action="#e" method='POST'>
+                    {% csrf_token %}
+                    <div class="labels">
+                        <label for="">year</label>
+                        {% comment %} <label for="">transmission</label> {% endcomment %}
+                        <label for="">mileage</label>
+                        {% comment %} <label for="">fuelType</label> {% endcomment %}
+                        <label for="">tax</label>
+                        <label for="">mPG</label>
+                        <label for="">engine Size</label>
+                    </div>
+                    <div class="inputs">
+                        <input type="number" name="year" required>
+                        {% comment %} <input type="text" name="trans" required> {% endcomment %}
+                        
+                        <input type="number" name="mil" required>
+                        {% comment %} <input type="text" name="ft" required> {% endcomment %}
+                        
+                        <input type="number" name="tax" required>
+                        <input type="number" name="mpg" step='any' required>
+                        <input type="number" name="es" step='any' required>
+                    </div>
+                    <input class="sub" type="submit" name="ff">
+                    {% if result %}
+                        <h1 class="price"><span>price =</span> {{result}}<span>$</span></h1>
+                    {% endif %}
+                </form>
+            </div>
+        </div>
+    </section>
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <script src="https://kit.fontawesome.com/c2e094ea21.js" crossorigin="anonymous"></script>
+    <script src="{% static 'home.js' %}"></script>
+    {% endblock %}
+</body>
+</html>
