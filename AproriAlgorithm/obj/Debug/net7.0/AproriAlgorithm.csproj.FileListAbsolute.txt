@@ -1,0 +1,15 @@
+/run/media/saad/Slave/MyProjects/Task/AproriAlgorithm/bin/Debug/net7.0/AproriAlgorithm
+/run/media/saad/Slave/MyProjects/Task/AproriAlgorithm/bin/Debug/net7.0/AproriAlgorithm.deps.json
+/run/media/saad/Slave/MyProjects/Task/AproriAlgorithm/bin/Debug/net7.0/AproriAlgorithm.runtimeconfig.json
+/run/media/saad/Slave/MyProjects/Task/AproriAlgorithm/bin/Debug/net7.0/AproriAlgorithm.dll
+/run/media/saad/Slave/MyProjects/Task/AproriAlgorithm/bin/Debug/net7.0/AproriAlgorithm.pdb
+/run/media/saad/Slave/MyProjects/Task/AproriAlgorithm/obj/Debug/net7.0/AproriAlgorithm.csproj.AssemblyReference.cache
+/run/media/saad/Slave/MyProjects/Task/AproriAlgorithm/obj/Debug/net7.0/AproriAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/saad/Slave/MyProjects/Task/AproriAlgorithm/obj/Debug/net7.0/AproriAlgorithm.AssemblyInfoInputs.cache
+/run/media/saad/Slave/MyProjects/Task/AproriAlgorithm/obj/Debug/net7.0/AproriAlgorithm.AssemblyInfo.cs
+/run/media/saad/Slave/MyProjects/Task/AproriAlgorithm/obj/Debug/net7.0/AproriAlgorithm.csproj.CoreCompileInputs.cache
+/run/media/saad/Slave/MyProjects/Task/AproriAlgorithm/obj/Debug/net7.0/AproriAlgorithm.dll
+/run/media/saad/Slave/MyProjects/Task/AproriAlgorithm/obj/Debug/net7.0/refint/AproriAlgorithm.dll
+/run/media/saad/Slave/MyProjects/Task/AproriAlgorithm/obj/Debug/net7.0/AproriAlgorithm.pdb
+/run/media/saad/Slave/MyProjects/Task/AproriAlgorithm/obj/Debug/net7.0/AproriAlgorithm.genruntimeconfig.cache
+/run/media/saad/Slave/MyProjects/Task/AproriAlgorithm/obj/Debug/net7.0/ref/AproriAlgorithm.dll

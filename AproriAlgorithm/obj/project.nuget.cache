@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f/DhHgpQH+PwBuubySyKeOzkO247fBjrt8o+6flmVyaLy5iDUKOjSMKEtn6MUeE77Aa7Gi03tQmn03SYDbOeuA==",
+  "success": true,
+  "projectFilePath": "/run/media/saad/Slave/MyProjects/Task/AproriAlgorithm/AproriAlgorithm.csproj",
+  "expectedPackageFiles": [
+    "/home/saad/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\AproriAlgorithmGUI\AproriAlgorithmGUI\bin\Debug\net6.0-windows\AproriAlgorithmGUI.exe
+C:\AproriAlgorithmGUI\AproriAlgorithmGUI\bin\Debug\net6.0-windows\AproriAlgorithmGUI.deps.json
+C:\AproriAlgorithmGUI\AproriAlgorithmGUI\bin\Debug\net6.0-windows\AproriAlgorithmGUI.runtimeconfig.json
+C:\AproriAlgorithmGUI\AproriAlgorithmGUI\bin\Debug\net6.0-windows\AproriAlgorithmGUI.dll
+C:\AproriAlgorithmGUI\AproriAlgorithmGUI\bin\Debug\net6.0-windows\AproriAlgorithmGUI.pdb
+C:\AproriAlgorithmGUI\AproriAlgorithmGUI\obj\Debug\net6.0-windows\AproriAlgorithmGUI.csproj.AssemblyReference.cache
+C:\AproriAlgorithmGUI\AproriAlgorithmGUI\obj\Debug\net6.0-windows\AproriAlgorithmGUI.Form1.resources
+C:\AproriAlgorithmGUI\AproriAlgorithmGUI\obj\Debug\net6.0-windows\AproriAlgorithmGUI.csproj.GenerateResource.cache
+C:\AproriAlgorithmGUI\AproriAlgorithmGUI\obj\Debug\net6.0-windows\AproriAlgorithmGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\AproriAlgorithmGUI\AproriAlgorithmGUI\obj\Debug\net6.0-windows\AproriAlgorithmGUI.AssemblyInfoInputs.cache
+C:\AproriAlgorithmGUI\AproriAlgorithmGUI\obj\Debug\net6.0-windows\AproriAlgorithmGUI.AssemblyInfo.cs
+C:\AproriAlgorithmGUI\AproriAlgorithmGUI\obj\Debug\net6.0-windows\AproriAlgorithmGUI.csproj.CoreCompileInputs.cache
+C:\AproriAlgorithmGUI\AproriAlgorithmGUI\obj\Debug\net6.0-windows\AproriAlgorithmGUI.dll
+C:\AproriAlgorithmGUI\AproriAlgorithmGUI\obj\Debug\net6.0-windows\refint\AproriAlgorithmGUI.dll
+C:\AproriAlgorithmGUI\AproriAlgorithmGUI\obj\Debug\net6.0-windows\AproriAlgorithmGUI.pdb
+C:\AproriAlgorithmGUI\AproriAlgorithmGUI\obj\Debug\net6.0-windows\AproriAlgorithmGUI.genruntimeconfig.cache
+C:\AproriAlgorithmGUI\AproriAlgorithmGUI\obj\Debug\net6.0-windows\ref\AproriAlgorithmGUI.dll
